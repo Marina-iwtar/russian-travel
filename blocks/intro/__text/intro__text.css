@@ -9,8 +9,4 @@
     margin-bottom: 32px;
   }
 }
-@media screen and (max-width: 770px) {
-  .intro__text {
-    margin-bottom: 32px;
-  }
-}
+

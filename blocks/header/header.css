@@ -3,7 +3,6 @@
   margin: 28px 48px 55px 48px;
   display: flex;
   justify-content: space-between;
-  outline: 1px solid red;
 }
 
 @media screen and (max-width: 1024px) {

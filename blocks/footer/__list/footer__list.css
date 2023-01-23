@@ -1,4 +1,4 @@
-.footer__nav {
+.footer__list {
   display: flex;
   gap: 18px;
   list-style: none;
@@ -6,7 +6,7 @@
   padding: 0;
 }
 @media screen and (max-width: 555px) {
-  .footer__nav {
+  .footer__list {
     flex-direction: column;
     margin-bottom: 48px;
     row-gap: 32px;
